@@ -1,0 +1,14 @@
+{
+  "name": "qrcode-network",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "libqrencode",
+    "sdl3",
+    "libdeflate",
+    "picosha2",
+    "nu-book-zxing-cpp",
+    "stb",
+    "opencv",
+    "cryptopp"
+  ]
+}
