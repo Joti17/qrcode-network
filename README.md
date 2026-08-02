@@ -56,7 +56,7 @@ cmake -B build -G Ninja \
 Build:
 
 ```bash
-cmake --build build --config Release
+cmake --build build --config Release --target all_targets
 ```
 
 The compiled binaries will be located inside the `build` directory.
